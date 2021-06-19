@@ -7,3 +7,9 @@ Para llevar a cabo esta idea, se diseñará e implementará una solución que pe
 # DIAGRAMA
 
 ![diagrama fritzing](https://user-images.githubusercontent.com/79615803/122656838-e3bff200-d123-11eb-8470-486e32a5c3d2.jpg)
+
+# LIBRERIAS
+
+![ADAF](https://user-images.githubusercontent.com/79615803/122656883-4adda680-d124-11eb-9fb5-24892f30032e.jpg)
+![DGTXXX](https://user-images.githubusercontent.com/79615803/122656884-4dd89700-d124-11eb-8988-9254426bb410.jpg)
+
